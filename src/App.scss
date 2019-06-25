@@ -1,7 +1,22 @@
 @import "@material/react-layout-grid/index.scss";
+@import "@material/react-button/index.scss";
 
 .App {
   text-align: center;
+  font-family: Montserrat;
+  height: 100%;
+  .content {
+    position: relative;
+    top: 25%;
+    .team-name {
+      font-variant: all-petite-caps;
+      color: #efefef;
+      font-size: 50px;
+      letter-spacing: 14px;
+      margin-right: -14px;
+      margin-top: -28px;
+    }
+  }
 }
 
 .App-logo {
@@ -43,9 +58,6 @@
     transform: translateX(-50%) translateY(-50%);
     background: black;
     background-size: cover;
-    // display: block;
-    // width: 100%;
-    // clip-path: url(#clip-00);
   }
 }
 
