@@ -1,7 +1,20 @@
 @import "@material/react-layout-grid/index.scss";
 @import "@material/react-button/index.scss";
+@import url("https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:500&display=swap");
+
+.mdc-button {
+  @include mdc-button-outline-color(#000000);
+  @include mdc-button-ink-color(#000000);
+}
+
+.mdc-ripple-upgraded {
+  @include mdc-states(#000000, false);
+}
 
 .App {
+  a {
+    text-decoration: none;
+  }
   text-align: center;
   font-family: Montserrat;
   height: 100%;
@@ -56,7 +69,6 @@
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    background: black;
     background-size: cover;
   }
 }
