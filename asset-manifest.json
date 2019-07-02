@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ainosworship/static/css/main.9b805c36.chunk.css",
-    "main.js": "/ainosworship/static/js/main.1a2ca31c.chunk.js",
-    "main.js.map": "/ainosworship/static/js/main.1a2ca31c.chunk.js.map",
-    "runtime~main.js": "/ainosworship/static/js/runtime~main.8ac80784.js",
-    "runtime~main.js.map": "/ainosworship/static/js/runtime~main.8ac80784.js.map",
-    "static/js/2.f90342be.chunk.js": "/ainosworship/static/js/2.f90342be.chunk.js",
-    "static/js/2.f90342be.chunk.js.map": "/ainosworship/static/js/2.f90342be.chunk.js.map",
-    "index.html": "/ainosworship/index.html",
-    "precache-manifest.f262331ae06e84f843cf27be13796253.js": "/ainosworship/precache-manifest.f262331ae06e84f843cf27be13796253.js",
-    "service-worker.js": "/ainosworship/service-worker.js",
-    "static/css/main.9b805c36.chunk.css.map": "/ainosworship/static/css/main.9b805c36.chunk.css.map"
+    "main.css": "/static/css/main.9b805c36.chunk.css",
+    "main.js": "/static/js/main.16099b03.chunk.js",
+    "main.js.map": "/static/js/main.16099b03.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f90342be.chunk.js": "/static/js/2.f90342be.chunk.js",
+    "static/js/2.f90342be.chunk.js.map": "/static/js/2.f90342be.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7c192374012cdb217ea2a30cb453886e.js": "/precache-manifest.7c192374012cdb217ea2a30cb453886e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9b805c36.chunk.css.map": "/static/css/main.9b805c36.chunk.css.map"
   }
 }
