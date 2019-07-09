@@ -195,6 +195,10 @@ export default function JoinUs() {
           </DialogButton>
         </DialogFooter>
       </Dialog>
+      <div className="footer">
+        <Grid>
+        </Grid>
+      </div>
     </div>
   );
 }
