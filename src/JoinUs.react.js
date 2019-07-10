@@ -5,7 +5,6 @@ import Card, { CardPrimaryContent } from "@material/react-card";
 import TextField, { Input } from "@material/react-text-field";
 import Select, { Option } from "@material/react-select";
 import MaterialIcon from "@material/react-material-icon";
-import IconButton, {IconToggle} from "@material/react-icon-button";
 
 import { Link } from "react-router-dom";
 
@@ -105,14 +104,7 @@ export default function JoinUs() {
               tabletColumns={8}
             >
               <Link to="/">
-                <IconButton>
-                  <IconToggle isOn>
-                    <MaterialIcon icon="home"/>
-                  </IconToggle>
-                  <IconToggle>
-                    <MaterialIcon icon="home"/>
-                  </IconToggle>
-                </IconButton>
+                <MaterialIcon icon="home" />
               </Link>
             </Cell>
             <Cell desktopColumns={2} phoneColumns={0} tabletColumns={0} />
